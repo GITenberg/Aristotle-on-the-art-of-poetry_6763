@@ -1,5 +1,5 @@
 _repo: Aristotle-on-the-art-of-poetry_6763
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Poetics. English
 contributor:
   contributor:
@@ -20,6 +20,9 @@ contributor:
     gutenberg_agent_id: '4838'
     url: http://www.gutenberg.org/2009/agents/4838
     wikipedia: http://en.wikipedia.org/wiki/Ingram_Bywater
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aristotle
@@ -34,6 +37,8 @@ creator:
     - http://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82
     - http://en.wikipedia.org/wiki/Aristotle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6763#Aristotle-on-the-art-of-poetry
 gutenberg_bookshelf:
 - Classical Antiquity
 - Philosophy
